@@ -5,14 +5,11 @@ This repo contains a series of jupyter notebooks with documenatation data model 
 ## Installation
 Clone this repository<br />
 
-1) Install a console emulator: <br />
+1) In windows, I recomend to Install a console emulator: <br />
    http://cmder.net/ <br />
    download the full version. <br />
-2) Generate ssh key and add it to your gitalb profile: <br />
-   type the comand: ssh-keygen<br />
-   open the .pub text, copy the key and add it to your gitlab profile.<br />
-3) conda env create -f environment.yml<br />
-4) to activate enviroment: activate rapid<br />
+2) conda env create -f environment.yml<br />
+3) to activate enviroment: activate rapid<br />
 
 
 
