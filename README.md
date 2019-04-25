@@ -12,7 +12,7 @@ Clone this repository<br />
    type the comand: ssh-keygen<br />
    open the .pub text, copy the key and add it to your gitlab profile.<br />
 3) conda env create -f environment.yml<br />
-4) to activate enviroment type: activate rapid<br />
+4) to activate enviroment: activate rapid<br />
 
 
 
