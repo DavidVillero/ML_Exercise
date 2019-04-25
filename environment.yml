@@ -12,7 +12,6 @@ dependencies:
   - grpcio=1.16.1
   - h5py=2.9.0
   - hdf5=1.10.4
-  - icc_rt=2019.0.0
   - intel-openmp=2019.3
   - keras=2.2.4
   - keras-applications=1.0.7
@@ -32,7 +31,6 @@ dependencies:
   - pbr=5.1.3
   - pip=19.0.3
   - protobuf=3.6.1
-  - pyreadline=2.1
   - python=3.6.8
   - python-dateutil=2.8.0
   - pytz=2019.1
@@ -47,11 +45,9 @@ dependencies:
   - tensorflow-base=1.13.1
   - tensorflow-estimator
   - termcolor=1.1.0
-  - vc=14.1
-  - vs2015_runtime=14.15.26706
   - werkzeug=0.15.2
   - wheel=0.33.1
-  - wincertstore
+  - wincertstore=0.2
   - yaml=0.1.7
   - zlib=1.2.11
 prefix: C:\ProgramData\Anaconda3\envs\rapid
