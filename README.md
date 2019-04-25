@@ -1,5 +1,5 @@
 # Data Science Training Exercise
-This repo contains a series of jupyter notebooks with documenatation data model example from start to end.
+This repo contains a series of jupyter notebooks with documented data model example from start to end.
 
 
 ## Installation
