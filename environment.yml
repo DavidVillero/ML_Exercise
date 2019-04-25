@@ -47,7 +47,6 @@ dependencies:
   - termcolor=1.1.0
   - werkzeug=0.15.2
   - wheel=0.33.1
-  - wincertstore=0.2
   - yaml=0.1.7
   - zlib=1.2.11
 prefix: C:\ProgramData\Anaconda3\envs\rapid
