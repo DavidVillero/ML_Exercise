@@ -37,6 +37,7 @@ dependencies:
   - pytz=2019.1
   - pyyaml=5.1
   - scikit-learn=0.20.3
+  - seaborn
   - scipy=1.2.1
   - setuptools
   - six=1.12.0
