@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidVillero/ML_Exercise.git/master)
+
 # Data Science Training Exercise
 This repo contains a series of jupyter notebooks with documented data model example from start to end.
 
