@@ -19,7 +19,7 @@ Clone this repository<br />
 Financial institutions often like to perfrom risk analysis on outstanding loans, and they typically do so by categorizing the individuals that might default on their loans. In this exercise, we want to create a model that predicts when an institution or individual will default on their loan.
 
 
-# > Folder structure options and naming conventions for software projects
+ > Folder structure options and naming conventions for software projects
 
 ### Top-level directory layout
 
