@@ -15,6 +15,8 @@ Clone this repository<br />
 2) conda env create -f environment.yml<br />
 3) to activate enviroment: activate rapid<br />
 
+## The problem at hand:
+Financial institutions often like to perfrom risk analysis on outstanding loans, and they typically do so by categorizing the individuals that might default on their loans. In this exercise, we want to create a model that predicts when an institution or individual will default on their loan.
 
 
 > Folder structure options and naming conventions for software projects
@@ -22,7 +24,8 @@ Clone this repository<br />
 ### Top-level directory layout
 
     .
-    ├── Notebooks_training.ipynb          # notebooks
+    ├── Cleaning_Data.ipynb          # notebook
+    ├── LOAN_DEFAULT_MODELS.ipynb          # notebook
     ├── environment.yml             # Conda env for this training
     └── README.md
     
