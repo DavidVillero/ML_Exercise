@@ -7,7 +7,7 @@ Clone this repository<br />
 
 1) In windows, I recomend to Install a console emulator: <br />
    http://cmder.net/ <br />
-   download the full version. The full version will include git as well as your typical unix command tools <br />
+   download the full version. The full version will include git as well as your typical unix command tools. <br />
 2) conda env create -f environment.yml<br />
 3) to activate enviroment: activate rapid<br />
 
