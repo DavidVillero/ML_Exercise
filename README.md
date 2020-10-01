@@ -7,7 +7,7 @@ This repo contains a series of jupyter notebooks with documented data model exam
 
 
 ## Installation
-Clone this repository: 'git clone '<br />
+Clone this repository: `git clone https://github.com/DavidVillero/ML_Exercise.git`<br />
 
 1) In windows, I recomend to Install a console emulator: <br />
    http://cmder.net/ <br />
