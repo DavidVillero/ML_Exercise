@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidVillero/ML_Exercise.git/master)
 
-## NOTE: If you are unable to set up the environment to run the training material, please use the Binder link above to build a stand alone container. This will allow you to go through the notebooks. However, this should not be used for active development! Also, I would recomend forking this repo if you intent to use the Binder lunch link.
+## NOTE: If you are unable to set up the environment to run the training material, please use the Binder link above to build a stand alone container. This will allow you to go through the notebooks. However, this should not be used for active development! Also, I would recomend forking this repo if you intent to use the Binder launch link.
 
 # Data Science Training Exercise
 This repo contains a series of jupyter notebooks with documented data model example from start to end.
